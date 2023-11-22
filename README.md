@@ -64,7 +64,7 @@ void main() {
     printf("%d %d", c1, c2);
 }
 ```
-!([https://github.com/sweet-lover/C-1/blob/main/J%60(305D4%7B55%7B938TUHQ%7B%5BWW.png]).
+![这是一个实验截图]([tupian/响铃.png])
 ### 四、实验报告
 1.流程图
 ***
