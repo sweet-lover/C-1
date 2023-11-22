@@ -29,7 +29,7 @@ int main(){
     return 0;
 }
  ```
-![这是一个实验截图]([(https://github.com/sweet-lover/C-1/blob/main/qq_pic_merged_1700618593896.jpg)])
+![这是一个实验截图]([https://github.com/sweet-lover/C-1/blob/main/5%7BY5(3T26PEA)%5D%60%5BT%7DO%5D4K7.png])
 
 
  问题：如果执行。。。会得到什么结果？为什么？
